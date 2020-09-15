@@ -1,2 +1,3 @@
-# catalog-fe
+# catalog
+
 Flutter frontend for the catalog app
